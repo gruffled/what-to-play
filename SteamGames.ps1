@@ -2,7 +2,9 @@
 
 $arrUsers = @(
 	"guruant",
-	"thegruffalo" # Is this even the right username?
+	"the_gruffalo" # This is now correct
+	# Brian's profile is private. Probably to stop 
+	# Malc's profile is strange - maybe not set up a profile?
 )
 
 $allGames = @()
